@@ -9,7 +9,7 @@ Let discuss the steps that will help you download and install kaspersky on your 
 
 ### Step 1: Accessing Your MyKaspersky.com Account
 
-Before installing Kaspersky, you’ll need access to your online account. This account is essential for managing your licenses, tracking your devices, and remotely managing your protection settings.
+Before installing Kaspersky, you’ll need access to your online account. [This account is essential for managing your licenses, tracking your devices, and remotely managing your protection settings.](https://kasperskyrepository.readthedocs.io/)
 
 #### Create or Login to MyKaspersky.com
 
