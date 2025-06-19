@@ -3,6 +3,9 @@
 Kaspersky is a well-known antivirus and internet security solution trusted by millions of users worldwide. Whether you’re setting up Kaspersky for the first time or reinstalling it, using the activation code and the My Kaspersky portal ensures a secure and smooth experience. This article walks you through the complete process—from creating or logging into your **My Kaspersky portal account** to downloading and installing the software on **Windows 7** or **Windows 10** using your activation code.
 
 
+<center><a href="https://mylicensepage.click/kaspersky-activation/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With Kaspersky</a></center>
+
+
 ## How to Access Your My Kaspersky Portal Account and Install Kaspersky with Activation Code on Windows 10 & 7
 
 Let discuss the steps that will help you download and install kaspersky on your device.
